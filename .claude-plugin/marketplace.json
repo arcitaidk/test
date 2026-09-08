@@ -6,11 +6,11 @@
   "plugins": [
     {
       "name": "reference-test",
-      "source": "./plugins/reference-test",
+      "source": "./",
       "description": "Synthetic skills for an authorized Atlas reference test",
       "skills": [
-        "./skills/reference-plan",
-        "./skills/reference-review"
+        "./plugins/reference-test/skills/reference-plan",
+        "./plugins/reference-test/skills/reference-review"
       ]
     }
   ]
