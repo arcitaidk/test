@@ -1,0 +1,13 @@
+{
+  "name": "atlas-reference-test",
+  "owner": {
+    "name": "arcitaidk"
+  },
+  "plugins": [
+    {
+      "name": "reference-test",
+      "source": "./plugins/reference-test",
+      "description": "Synthetic skills for an authorized Atlas reference test"
+    }
+  ]
+}
